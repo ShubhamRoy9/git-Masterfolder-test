@@ -1,0 +1,1 @@
+"New test strategey: API-first test case" 
